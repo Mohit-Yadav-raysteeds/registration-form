@@ -1,0 +1,17 @@
+body{
+  background-color: aqua;}
+
+.register-container{
+  width: 500px !important;
+  border-radius: 14px;
+  border:1px solid rgb(0, 0, 0);
+  padding-left: 10px;  
+  box-shadow: 0px 10px 20px rgba(0,0,0,0.3);
+  outline: none;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: large;
+  background-color: rosybrown;
+  -webkit-text-fill-color:maroon;
+
+}
+
