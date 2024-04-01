@@ -18,6 +18,10 @@ export default function Register (props) {
         <label htmlFor='password'><b>Password</b></label>
           <input type='text' name='password'required className='form-control'/>
         </div>
+        <div className='form-group'>
+        <label htmlFor='cpassword'><b>Confirm Password</b></label>
+          <input type='text' name='cpassword'required className='form-control'/>
+        </div>
         <button type='submit'className='btn btn-primary'><b>Submit</b></button>
       </form>
 
