@@ -3,7 +3,7 @@ import React from 'react';
 export default function Register (props) {
   return (
     <div className='container card p-3 mt-3 register-container' >
-      <h1 className='text-center' ><b>Students Details</b></h1>
+      <h1 className='text-center' ><b>Registraton Form</b></h1>
       <form onSubmit={props.submit}>
         
         <div className='form-group'>
